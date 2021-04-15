@@ -1,0 +1,6 @@
+management:
+  endpoints.web.exposure.include: "*"
+
+wiki:
+  load-content: true
+  url: https://stream.wikimedia.org/v2/stream
